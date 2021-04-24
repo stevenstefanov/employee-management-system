@@ -8,6 +8,7 @@ const { add } = require('./lib/add');
 const { edit } = require('./lib/edit');
 const { remove } = require('./lib/delete');
 
+// Initialize the company program
 const program = () => {
     inquirer.prompt(prompts.prompts[0]).then((res) => {
       res.continue === true
@@ -31,5 +32,6 @@ const program = () => {
     });
   };
   
+  console.clear();
   prompts.welcomePrompt();
   program();

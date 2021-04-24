@@ -31,6 +31,5 @@ const program = () => {
     });
   };
   
-  console.clear();
   prompts.welcomePrompt();
   program();

@@ -1,7 +1,5 @@
 // Dependencies
 const mysql = require('mysql');
-const inquirer = require('inquirer');
-const console_table = require('console.table');
 const password = require('./config');
 
 // Connection to the database

@@ -13,16 +13,16 @@ const program = () => {
       res.continue === true
         ? inquirer.prompt(prompts.prompts[1]).then((res) => {
             switch (res.main_menu) {
-              case 'view':
+              case 'View':
                 viewTable(program);
                 break;
-              case 'add':
+              case 'Add':
                 add(program);
                 break;
-              case 'edit':
+              case 'Edit':
                 edit(program);
                 break;
-              case 'remove':
+              case 'Remove':
                 remove(program);
                 break;
             }

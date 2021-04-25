@@ -18,7 +18,7 @@ This project combines the use of multiple npm packages to make a very useful too
 
 ## Project Video  
 
-You can see a video demo of the project here: [Employee Tracker Video]()
+You can see a video demo of the project here: [Employee Tracker Video](https://youtu.be/RO4rqyvIwmA)
  
 
 ## Instalation

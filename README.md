@@ -1,8 +1,8 @@
-# employee-tracker
+# Employee Management System
 
 ## What is the project?
 
-This project is an employee tracker. It allows a user to be able to easily interact with a employee database to view, add, edit, and delete data from the database such as employees, roles, departments and managers.
+This project is an employee management system. It allows a user to be able to easily interact with a employee database to view, add, edit, and delete data from the database such as employees, roles, departments and managers.
 
 ## Why did I decide to do this project?
 
@@ -18,7 +18,7 @@ This project combines the use of multiple npm packages to make a very useful too
 
 ## Project Video  
 
-You can see a video demo of the project here: [Employee Tracker Video](https://youtu.be/RO4rqyvIwmA)
+You can see a video demo of the project here: [Employee Management System Video](https://youtu.be/RO4rqyvIwmA)
  
 
 ## Instalation

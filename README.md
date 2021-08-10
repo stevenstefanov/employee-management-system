@@ -1,37 +1,38 @@
 # Employee Management System
 
-## What is the project?
+## Project Description
 
 This project is an employee management system. It allows a user to be able to easily interact with a employee database to view, add, edit, and delete data from the database such as employees, roles, departments and managers.
-
-## Why did I decide to do this project?
-
-This project helps team managers to be able to manage their teams and see payroll and employee lists.
-
-## What I learned in the process?
-
-I became a lot more comfortable with inquirer, sequelize, and mysql. I learned really how useful sequelize is and all that can be done with it.
-
-## What makes this project stand out?
-
-This project combines the use of multiple npm packages to make a very useful tool.
 
 ## Project Video  
 
 You can see a video demo of the project here: [Employee Management System Video](https://youtu.be/RO4rqyvIwmA)
- 
+
+## Background
+
+This project helps team managers to be able to manage their teams and see payroll and employee lists.
+
+## Learnings
+
+I became a lot more comfortable with **inquirer**, **Sequelize**, and **MySQL**. I learned how useful **Sequelize** is and all that can be done with it.
 
 ## Instalation
 
-This project is ran exclusively in Terminal. Clone project to local computer. Navigate your Terminal inside the folder where you've saved this project. Run "npm init" followed by "npm install" to get the required modules to properly run this program. Run "node index" in your Terminal and press the Enter button to launch program.
+This project is ran exclusively through the command line. Save the project to a local computer. Navigate inside the **team-profile-generator** folder and install all necessary dependencies by typing: 
+
+```npm i```
+
+After all of the packages are done isntalling, to run the application, type:
+
+```node index```
 
 ## Usage
 
-This program runs fully inside of Terminal. When you run the program, your Terminal will prent you with a set of questions which you must answer. Depending on your selection, you are presented with the corresponding follow-up questions or the corresponding results.
+This program runs fully inside of the command line. When a user runs the program, they are presented with a set of questions which the user must answer. Based on their selection, they will receive corresponding follow-up questions or the corresponding results.
 
 ## Credits
 
-Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned. Credit also goes to Google for helping me find any needed resource.
+Thank you to Columbia's Full-Stack Web Developer bootcamp for all the assistance and for teaching me all that I have learned.
 
 ## Licence
 
